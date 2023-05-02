@@ -1,0 +1,3 @@
+File Size: 107 bytes
+Absolute Path: C:\Users\kurut0\eclipse-workspace\2ndSem_Finals_FileHandling\..\2ndSem_Finals_FileHandling\src\fileHandlePackage\SampleText.txt
+Number of Words: 21
