@@ -1,0 +1,6 @@
+		Quiz 1		Quiz 2		Average		Remarks	
+Student #1	98.50		90.20		94.35		Passed	
+Student #2	88.50		70.00		79.25		Passed	
+
+Number of students passed: 2
+Number of students failed: 0
